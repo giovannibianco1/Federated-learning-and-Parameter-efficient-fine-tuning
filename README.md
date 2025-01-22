@@ -1,4 +1,4 @@
-# Transformens, parameter efficient fine tuning with LoRA and Transfer Learning
+# Transformens, parameter efficient fine tuning with LoRA and Federated Learning
 During my exchange at UTS, I dove into advanced techniques to enhance Large Language Models (LLMs), aiming to make them more adaptable and efficient for specialized tasks.
 
 This report explores the high-demand realm of model fine-tuning, covering key concepts and implementations such as:
